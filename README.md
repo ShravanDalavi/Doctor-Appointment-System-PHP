@@ -1,5 +1,4 @@
 # Doctor Appointment System (PHP)
-
 This project is a Doctor Appointment System built using PHP. It allows patients to book appointments with doctors online, manage their appointments, and enables doctors to track and manage patient bookings. The system streamlines the booking process, making it easier for both patients and doctors to manage their schedules efficiently.
 
 ## Features
